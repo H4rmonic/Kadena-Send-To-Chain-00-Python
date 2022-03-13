@@ -5,12 +5,12 @@ This script is horribly inneffiecient and takes around 3 hours to complete.
 
 
 # Usage: 
-Insert your public and private keys on lines 18-21
-  usr=('pubkey') 
-	pwd=('pubkeyagainforsomereason') 
-	amount=('0.1')
-	signature=('privkey')
-Pip install dependencies 
-Install chromedriver for selenium https://chromedriver.chromium.org/getting-started 
-????
-Profit! 
+Insert your public and private keys on lines 18-21 <br>
+  usr=('pubkey') <br>
+	pwd=('pubkeyagainforsomereason') <br>
+	amount=('0.1')<br>
+	signature=('privkey')<br>
+Pip install dependencies <br>
+Install chromedriver for selenium https://chromedriver.chromium.org/getting-started <br>
+????<br>
+Profit! <br>
