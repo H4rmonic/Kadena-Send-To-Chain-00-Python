@@ -14,4 +14,4 @@ Insert your public and private keys on lines 18-21 <br>
 Pip install dependencies <br>
 Install chromedriver for selenium https://chromedriver.chromium.org/getting-started <br>
 ????<br>
-**Profit! <br> **
+Profit! <br> 
